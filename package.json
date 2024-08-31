@@ -58,7 +58,7 @@
         "proton-i18n": "github:ProtonMail/proton-i18n#semver:^1.4.0",
         "react-test-renderer": "^16.12.0",
         "typescript": "^3.6.3",
-        "webpack": "^4.41.5",
+        "webpack": "^5.94.0",
         "webpack-dev-server": "^3.10.1"
     },
     "config": {
